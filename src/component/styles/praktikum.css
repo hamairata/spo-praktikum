@@ -1,0 +1,16 @@
+.container {
+  width: 100%;
+  clear: both;
+}
+
+.container input {
+  width: 100%;
+  clear: both;
+}
+
+.container button {
+  width: 100%;
+  clear: both;
+  align-self: center;
+  margin-bottom: 10px;
+}
